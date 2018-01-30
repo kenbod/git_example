@@ -2,8 +2,8 @@
 
 This document will be used to demonstrate some features of git.
 
-First Edit
-Second Edit
-Third Edit
-Fourth Edit
-Fifth Edit
+First Edit<br>
+Second Edit<br>
+Third Edit<br>
+Fourth Edit<br>
+Fifth Edit<br>
